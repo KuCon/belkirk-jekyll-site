@@ -18,9 +18,8 @@ sections:
   - landing-page
   - page
 - type: document
-  path: img
+  path: img/*
   label: Images
-  match: "**/*"
 - type: directory
   path: _people
   label: People
