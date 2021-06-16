@@ -3,9 +3,7 @@ title: Home
 banner_image: "/uploads/2021/06/16/bg_webp.webp"
 layout: landing-page
 heading: Kuron Consulting
-partners:
-- "/uploads/2021/06/16/shopify-partner.png"
-- "/uploads/2021/06/16/sipgate-icon-zertifizierter-partner.png"
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
@@ -20,7 +18,7 @@ textline: Kuron Consulting
 hero_button:
   text: Mehr erfahren
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
