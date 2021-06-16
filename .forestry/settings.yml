@@ -17,6 +17,10 @@ sections:
   templates:
   - landing-page
   - page
+- type: document
+  path: img
+  label: Images
+  match: "**/*"
 - type: directory
   path: _people
   label: People
@@ -37,7 +41,6 @@ sections:
 - type: document
   path: _config.yml
   label: Config
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
