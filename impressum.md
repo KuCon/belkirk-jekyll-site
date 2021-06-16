@@ -8,6 +8,10 @@ layout: landing-page
 textline: Angaben gemäß § 5 TMG
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
+menu:
+  footer:
+    identifier: _posts
+    weight: 3
 published: false
 
 ---
