@@ -17,9 +17,11 @@ sections:
   templates:
   - landing-page
   - page
-- type: document
-  path: img/*
+- type: directory
+  path: img
   label: Images
+  create: all
+  match: "**/*"
 - type: directory
   path: _people
   label: People
