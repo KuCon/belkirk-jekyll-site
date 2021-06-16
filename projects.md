@@ -7,9 +7,11 @@ menu:
   navigation:
     identifier: _projects
     weight: 3
+    title: Projekte
   footer:
     identifier: _projects
     url: "/projects/"
     weight: 1
+    title: Projekte
 
 ---
