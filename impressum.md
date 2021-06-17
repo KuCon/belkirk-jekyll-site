@@ -5,7 +5,7 @@ banner_image: ''
 heading: Impressum
 sub_heading: ''
 layout: landing-page
-textline: Angaben gemäß § 5 TMG
+textline: 
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
 menu:
@@ -15,6 +15,8 @@ menu:
 published: false
 
 ---
+Angaben gemäß § 5 TMG
+
 Kuron Consulting UG
 
 Hans-Much-Weg 17
