@@ -12,7 +12,6 @@ menu:
   footer:
     identifier: _posts
     weight: 3
-published: false
 
 ---
 Angaben gemäß § 5 TMG
